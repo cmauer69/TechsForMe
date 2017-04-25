@@ -6,13 +6,22 @@ using Xamarin.Forms.Xaml;
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace TechsForMe
 {
+ 
     public partial class App : Application
     {
+        public static bool IsUserLoggedIn { get; set; }
         public App()
         {
-            InitializeComponent();
-
-            SetMainPage();
+            if (!IsUserLoggedIn)
+            {
+                MainPage = new NavigationPage(new LoginNavigation.LoginPageCS());
+            }
+            else
+            {
+                InitializeComponent();
+                SetMainPage();
+                //MainPage = new NavigationPage(new LoginNavigation.MainPageCS());
+            }
         }
 
         public static void SetMainPage()

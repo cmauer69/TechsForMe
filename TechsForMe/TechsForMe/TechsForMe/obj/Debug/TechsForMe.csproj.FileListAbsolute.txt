@@ -8,7 +8,6 @@ C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\Tech
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.csprojResolveAssemblyReference.cache
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.App.xaml.g.cs
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.Views.AboutPage.xaml.g.cs
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.Views.ItemDetailPage.xaml.g.cs
@@ -16,6 +15,9 @@ C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\Tech
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.Views.NewItemPage.xaml.g.cs
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.dll
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.pdb
+C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.csprojResolveAssemblyReference.cache
+C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.dll.mdb
+C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\bin\Debug\TechsForMe.dll.mdb
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.dll.mdb
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\bin\Debug\TechsForMe.dll.mdb
 C:\Users\clifford.mauer\Documents\CCIS2500\TechsForMe\TechsForMe\TechsForMe\TechsForMe\obj\Debug\TechsForMe.dll.mdb
